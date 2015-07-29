@@ -1,4 +1,5 @@
 #Story Guidelines for Women Who Code 
+Site: medium.com/@WomenWhoCodeNYC
 
 Requirements of every blog post: 
 
