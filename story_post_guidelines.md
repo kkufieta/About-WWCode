@@ -1,7 +1,7 @@
 #Story Guidelines for Women Who Code 
 Site: medium.com/@WomenWhoCodeNYC
 
-Requirements of every blog post: 
+*Requirements of every blog post:*
 
 1.**Who are YOU?**
 
@@ -18,7 +18,7 @@ Ex: Did we connect you with resources, assist in algorithms preparation, help yo
 
 
 
-Potential Topics: 
+*Potential Topics:*
 
 1.**How did the event work to push you towards your goals faster?**
 
