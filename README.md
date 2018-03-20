@@ -27,6 +27,7 @@ Mission, Vision, Key Initiative, Empowerment, and tenative press kit.
 
 **Leads**
 * Jennifer Choudhry
+* Katharina Kufieta
 
 ## Contributing
 Please submit a pull request! This is in the very early stages of development.
