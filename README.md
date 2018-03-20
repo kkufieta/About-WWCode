@@ -19,6 +19,7 @@ Mission, Vision, Key Initiative, Empowerment, and tenative press kit.
 
 * Elizabeth Ferraro (co-founder)
 * Brenda Deverell Cortez
+* Cindy Juarez
 * Sarah Zinger
 * Kamilla Khabibrakhmanova
 * Elizabeth Funk
